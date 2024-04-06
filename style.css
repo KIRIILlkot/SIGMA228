@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&display=swap');
+  h1{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900px;
+  font-style: normal;
+    font-size: 35px;
+    padding-left: 500px;
+  color: white;
+}
+.niger{
+ width: 300px;
+}
+p{
+ font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900px;
+  font-style: normal;
+  font-size: 35px;
+  color: white;
+}
+.nigers{
+ width: 300px;
+}
+.nigerss{
+ width: 300px;
+ } 
+.nigersss{
+ width: 300px;
+}
+.nigerssss{
+ width: 300px;
+}
+h2{
+  color:white;
+}
+body{
+  background-color: black;
+}
